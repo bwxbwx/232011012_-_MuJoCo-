@@ -158,7 +158,7 @@
 
 - 场景截图
 
-  ![scene_load](screenshots\scene_load.png)
+  ![scene_load](./screenshots/scene_load.png)
 
 ### 3.2 数据获取
 
@@ -189,7 +189,7 @@
 
   观察终端数据是否正确
 
-  ![terminall_data](screenshots\terminall_data.png)
+  ![terminall_data](./screenshots/terminall_data.png)
 
 ### 3.3 仪表盘渲染
 
@@ -365,7 +365,7 @@
 
 - 效果展示
 
-  ![speed_](screenshots\speed_.png)
+  ![speed_](./screenshots/speed_.png)
 
 #### 3.3.2 转速表
 
@@ -379,7 +379,7 @@
 
 - 效果展示
 
-    ![rpm_](screenshots\rpm_.png)
+    ![rpm_](./screenshots/rpm_.png)
 
 ## 四、遇到的问题和解决方案
 
@@ -422,7 +422,7 @@
 
 - 截图
 
-  ![full_](screenshots\full_.png)
+  ![full_](./screenshots/full_.png)
 
 - 视频链接
 
@@ -450,4 +450,5 @@
 2. **仪表盘功能扩展**：增加加速度表、油量表、报警提示（如超速、红区提示）等信息显示，提高仪表盘的完整性与实用性。
 3. **交互与可视化优化**：支持仪表盘样式参数化配置，增强颜色对比度与动画效果，提升整体可读性与用户体验。
 4. **性能与测试优化**：引入自动化测试与性能监控机制，对帧率、CPU 资源占用等指标进行长期统计分析，提升系统的工程可靠性。
+
 5. **应用场景拓展**：将当前仪表盘系统扩展到更复杂的 MuJoCo 场景或多智能体任务中，探索其在教学仿真和智能驾驶研究中的应用潜力。
